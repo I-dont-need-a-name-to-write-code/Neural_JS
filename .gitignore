@@ -1,4 +1,8 @@
 
+*.html
+*.css
+
+sketch.js
 dataset/model_data.js
 dataset/training_data.js
 dataset/test_data.js
